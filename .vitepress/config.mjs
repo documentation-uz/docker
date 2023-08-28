@@ -32,6 +32,8 @@ export default defineConfig({
                     {text: 'Introduction', link: '/quick-start/introduction'},
                     {text: 'Containerize an application', link: '/quick-start/containerize-an-application'},
                     {text: 'Update the application', link: '/quick-start/update-the-application'},
+                    {text: 'Persist the data', link: '/quick-start/persist-the-data'},
+                    {text: 'Bind mounts', link: '/quick-start/bind-mounts'},
                 ]
             },
             {
