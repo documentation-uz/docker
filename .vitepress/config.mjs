@@ -29,7 +29,9 @@ export default defineConfig({
             {
                 text: 'Quick start',
                 items: [
-                    {text: 'Introduction', link: '/quick-start/introduction'}
+                    {text: 'Introduction', link: '/quick-start/introduction'},
+                    {text: 'Containerize an application', link: '/quick-start/containerize-an-application'},
+                    {text: 'Update the application', link: '/quick-start/update-the-application'},
                 ]
             },
             {
