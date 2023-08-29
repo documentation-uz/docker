@@ -34,6 +34,7 @@ export default defineConfig({
                     {text: 'Update the application', link: '/quick-start/update-the-application'},
                     {text: 'Persist the data', link: '/quick-start/persist-the-data'},
                     {text: 'Bind mounts', link: '/quick-start/bind-mounts'},
+                    {text: 'Multi container apps', link: '/quick-start/multi-container-apps'},
                 ]
             },
             {
