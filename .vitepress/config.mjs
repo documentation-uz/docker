@@ -35,6 +35,7 @@ export default defineConfig({
                     {text: 'Persist the data', link: '/quick-start/persist-the-data'},
                     {text: 'Bind mounts', link: '/quick-start/bind-mounts'},
                     {text: 'Multi container apps', link: '/quick-start/multi-container-apps'},
+                    {text: 'Docker compose', link: '/quick-start/docker-compose'},
                 ]
             },
             {
