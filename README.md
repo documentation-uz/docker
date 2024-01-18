@@ -4,7 +4,7 @@ Ushbu repositoriya dockerning o'zbek tilidagi dokumentatsiyasi uchun.
 
 Har qanday docker bilan ishlovchi dasturchi ushbu dokumentatsiyaga ma'lumot qo'shishga o'z hissasini qo'shishi mumkin.
 
-Rasmiy veb sahifa: http://docker.documentation.uz/
+Rasmiy veb sahifa: https://docker.documentation.uz/
 
 Github manzil: https://github.com/documentation-uz/docker/
 

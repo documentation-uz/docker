@@ -1,3 +1,0 @@
-# Advanced
-
-Coming soon...
