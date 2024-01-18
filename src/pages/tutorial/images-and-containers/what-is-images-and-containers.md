@@ -1,3 +1,0 @@
-# Images and containers
-
-Some content...

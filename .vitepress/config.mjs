@@ -34,8 +34,12 @@ export default defineConfig({
                     collapsed: true,
                     items: [
                         {
-                            text: 'What is images and containers?',
-                            link: '/tutorial/images-and-containers/what-is-images-and-containers'
+                            text: 'Setup project',
+                            link: '/tutorial/images-and-containers/setup-project'
+                        },
+                        {
+                            text: 'Create Dockerfile',
+                            link: '/tutorial/images-and-containers/create-dockerfile'
                         }
                     ]
                 },

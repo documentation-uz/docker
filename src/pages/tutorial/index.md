@@ -6,7 +6,8 @@ outline: deep
 
 ### Images and containers
 
-* [What is images and containers?](images-and-containers/what-is-images-and-containers.md)
+* [Setup project](images-and-containers/setup-project.md)
+* [Create Dockerfile](images-and-containers/create-dockerfile.md)
 
 ### Managing Data & Working with Volumes
 
