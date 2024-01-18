@@ -6,12 +6,12 @@ hero:
   name: "Docker documentation"
   tagline: Learn today, work tomorrow
   image:
-    src: https://images.macrumors.com/t/B1h4kmlUcEKSpo6lmUxCgP3PQcI=/2075x/article-new/2021/04/docker-for-mac.png
+    src: https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo-1280x900.png
     alt: docker-logo-documentation-uz
   actions:
     - theme: brand
       text: Get started
-      link: /get-started/introduction
+      link: /tutorial/index
     - theme: alt
       text: API reference
       link: /api-reference/
