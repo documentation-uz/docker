@@ -56,6 +56,10 @@ export default defineConfig({
                         {
                             text: 'Auto remove container',
                             link: '/tutorial/images-and-containers/auto-remove-container'
+                        },
+                        {
+                            text: 'Remove images & containers',
+                            link: '/tutorial/images-and-containers/remove-images-and-containers'
                         }
                     ]
                 },
