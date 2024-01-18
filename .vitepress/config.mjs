@@ -40,6 +40,22 @@ export default defineConfig({
                         {
                             text: 'Create Dockerfile',
                             link: '/tutorial/images-and-containers/create-dockerfile'
+                        },
+                        {
+                            text: 'Build the first image',
+                            link: '/tutorial/images-and-containers/build-the-first-image'
+                        },
+                        {
+                            text: 'Run the first container',
+                            link: '/tutorial/images-and-containers/run-the-first-container'
+                        },
+                        {
+                            text: 'Start container',
+                            link: '/tutorial/images-and-containers/start-container'
+                        },
+                        {
+                            text: 'Auto remove container',
+                            link: '/tutorial/images-and-containers/auto-remove-container'
                         }
                     ]
                 },

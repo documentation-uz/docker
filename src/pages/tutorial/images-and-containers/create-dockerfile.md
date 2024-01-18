@@ -80,7 +80,7 @@ RUN npm install
 
 :::
 
-Proyektimiz ishga tushganda browserda `80` portda ishlaydi.
+Proyektimiz ishga tushganda browserda `3000` portda ishlaydi.
 Buni `server.js` faylida ko'rishimiz mumkin.
 
 ::: code-group
@@ -88,12 +88,12 @@ Buni `server.js` faylida ko'rishimiz mumkin.
 ```js [server.js]
 // ...
 
-app.listen(80);
+app.listen(3000);
 ```
 
 :::
 
-Shuning uchun containerda `80` portni tinglash uchun `EXPOSE` buyrug'idan foydalanamiz.
+Shuning uchun containerda `3000` portni tinglash uchun `EXPOSE` buyrug'idan foydalanamiz.
 
 ::: code-group
 
@@ -106,7 +106,7 @@ COPY . /app
 
 RUN npm install
 
-EXPOSE 80
+EXPOSE 3000
 ```
 
 :::
@@ -125,7 +125,7 @@ COPY . /app
 
 RUN npm install
 
-EXPOSE 80
+EXPOSE 3000
 
 CMD ["node", "server.js"]
 ```
