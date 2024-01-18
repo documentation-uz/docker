@@ -31,7 +31,7 @@ export default defineConfig({
             '/tutorial/': [
                 {
                     text: 'Images & Containers',
-                    collapsed: true,
+                    collapsed: false,
                     items: [
                         {
                             text: 'Setup project',
@@ -65,7 +65,7 @@ export default defineConfig({
                 },
                 {
                     text: 'Managing Data & Working with Volumes',
-                    collapsed: true,
+                    collapsed: false,
                     items: [
                         {
                             text: 'Understanding Data',
