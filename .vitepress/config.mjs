@@ -60,6 +60,23 @@ export default defineConfig({
                         {
                             text: 'Remove images & containers',
                             link: '/tutorial/images-and-containers/remove-images-and-containers'
+                        },
+                        {
+                            text: 'Attach & Detach',
+                            link: '/tutorial/images-and-containers/attach-and-detach'
+                        },
+                        {
+                            text: 'Naming & Tagging Containers and Images',
+                            link: '/tutorial/images-and-containers/naming-and-tagging-container-and-images'
+                        },
+                        {
+                            text: '[Soon] Copying Files Into & From A Container'
+                        },
+                        {
+                            text: '[Soon] Pushing Images to DockerHub'
+                        },
+                        {
+                            text: '[Soon] Pulling & Using Shared Images'
                         }
                     ]
                 },
